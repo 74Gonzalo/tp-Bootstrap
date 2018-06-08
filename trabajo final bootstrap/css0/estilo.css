@@ -1,0 +1,41 @@
+nav{
+  margin-top: 30px;
+  background-color: white;
+}
+
+header{
+  background-color: #8833;
+}
+
+footer{
+  background-color: yellow;
+}
+
+#galeria{
+background-color: #aa98;
+}
+
+#que{
+  background-color: green;
+}
+
+#trabajar{
+  background-color: #773;
+}
+
+
+#resultados{
+  background-color: #ab22;
+}
+
+h2{
+  font-size: 60px;
+}
+
+#simbolo{
+  margin-top: 12px;
+}
+
+#grilla{
+  background-color: #199e;
+}

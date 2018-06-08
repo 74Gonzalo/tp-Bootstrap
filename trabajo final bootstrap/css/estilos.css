@@ -1,0 +1,125 @@
+body {
+/* background-image: url(../imagenes/images.jpg) no-repeat center center fixed; */
+background: url(../imagenes/cerati_gustavo7.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover
+
+}
+
+#ah1{
+  font-family: 'Faster One', cursive;
+  font-size: 2em;
+  color: white;
+  margin-top: -5px;
+  text-decoration: none;
+}
+
+#ah1 {
+  margin-top: 10px;
+}
+
+#ah1 a{
+
+  text-decoration: none;
+  /* color: black; */
+}
+
+#ah2{
+  color: white;
+  /* background-color: brown; */
+  /* margin-top: 100px; */
+}
+
+#ah3{
+  color: white;
+}
+/* footer{
+  background-color: blue;
+  color: white; */
+h2{
+  font-family: fantasy;
+  color: white;
+}
+
+/* #top{ */
+  /* position: fixed;
+  width: 100%;
+  background-color: grey; */
+/* } */
+
+.tabla{
+  margin-top: 15px;
+}
+#barra{
+  margin-top: 15px;
+  /* background-color: red; */
+  /* visibility: hidden; */
+  /* background-color: rgba(0,0,255,0.5); */
+}
+#text{
+  /* position: fixed;
+left: 0;
+bottom: 30px;
+width: 100%; */
+position: fixed;
+left: 0;
+bottom: 30px;
+width: 100%;
+/* background-color: blue; */
+  /* background-color: black; */
+  }
+
+  #pan{
+    position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  /* background-color: green; */
+  color: white;
+  /* text-align: center; */
+
+  }
+
+  #discos{
+  }
+/* para fijar el footer al final de  la página */
+.footer{
+  position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: blue;
+color: white;
+text-align: center;
+font-size: 0.5em;
+}
+@media (min-width:640px){
+
+#ah1{
+  font-family: 'Faster One', cursive;
+  font-size: 5em;
+  color: white;
+  margin-top: -5px;
+  text-decoration: none;
+}
+.footer {
+  font-size: 1em;
+}
+
+
+@media (min-width:1000px){
+
+  #ah1{
+    text-decoration: none;
+    font-family: 'Faster One', cursive;
+    font-size: 5em;
+    color: white;
+    margin-top: -5px;
+
+}
+
+.footer{
+  font-size: 1em;
+}
